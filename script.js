@@ -1,3 +1,7 @@
+
+//andi mandi chandi randi
+
+
 let numbers = document.querySelectorAll('.number')
 let operations = document.querySelectorAll('.operation')
 let screen = document.querySelector('.display')
